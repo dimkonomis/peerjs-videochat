@@ -17,7 +17,7 @@ Users will have to register and start streaming, in order to receive or make cal
 * Start streaming and click the button call, from the online user list, to start the video chat with the other user.
 
 ## How to run it ##
-Start mongodb
+* First, start mongodb on your machine
 * git clone https://github.com/dimkonomis/peerjs-videochat
 * cd peerjs-videochat
 * npm install
