@@ -22,3 +22,4 @@ Users will have to register and start streaming, in order to receive or make cal
 * cd peerjs-videochat
 * npm install
 * node server.js
+* Open localhost:3000
