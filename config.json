@@ -1,0 +1,5 @@
+{
+    "connectionString": "mongodb://localhost:27017/peerjs-video-chat",
+    "apiUrl":  "http://localhost:3000/api",
+    "secret": "RandomCode"
+}
